@@ -1,0 +1,4 @@
+A CRUD application with connection to database using Spring and React technologies
+
+
+In order for the application to run you will need for the Front End to run the command npm install and for the Back End to run Cleand and Build
